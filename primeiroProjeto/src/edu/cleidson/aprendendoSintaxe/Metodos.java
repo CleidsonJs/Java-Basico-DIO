@@ -1,4 +1,4 @@
-package edu.cleidson.aprendendoSintaxe;
+public package edu.cleidson.aprendendoSintaxe;
 
 public class Metodos {
 	
