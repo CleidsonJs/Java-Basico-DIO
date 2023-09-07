@@ -1,5 +1,5 @@
 public class MinhaClasse {
     public static void main(String[] args) {
-        System.out.println("Olá fui executado pelo CMD!");
+        System.out.println("Olá turma, fui executado pelo CMD!");
     }
 }
