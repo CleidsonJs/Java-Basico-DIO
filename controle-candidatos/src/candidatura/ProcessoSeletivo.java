@@ -1,10 +1,18 @@
 package candidatura;
+import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 public class ProcessoSeletivo {
     public static void main(String[] args) {
-        imprimirSelecionados();
+       String [] candidatos = {"FELIPE","MÁRCIA","JULIA","PAULO","AUGUSTO"};
+       for(String candidato: candidatos){
+
+       }
       
     }
+    static boolean atender() {
+		return new Random().nextInt(3)==1;	
+	}
+
     static void imprimirSelecionados() {
         String [] candidatos = {"FELIPE","MÁRCIA","JULIA","PAULO","AUGUSTO"};
         System.out.println("Imprimindo a lista de candidatos informando o indice do elemento");
