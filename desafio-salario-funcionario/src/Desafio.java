@@ -11,14 +11,14 @@ public class Desafio {
         if(valorSalario >= 0 && valorSalario <= 1100){
             //Atribui aliquota de 5%
             valorImposto = 0.05F * valorSalario;
-        }else if(valorSalario >= 1100.01F && valorSalario <= 2500){
+        }else if(valorSalario >= 1100.01 && valorSalario <= 2500){
             //Atribui aliquota de 10%
             valorImposto = 0.10F * valorSalario;
         }else {
             // Atribui aliquota de 15% referente a salários +2500
             valorImposto = 0.15F * valorSalario;
         }
-        //Calcula e imprime a Saída (com 2 casas decimais);
+            //Calcula e imprime a Saída (com 2 casas decimais);
         float saida = valorSalario - valorImposto + valorBeneficios;
         System.out.println(String.format("%.2f", saida));
 
