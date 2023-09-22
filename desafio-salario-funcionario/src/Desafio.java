@@ -1,27 +1,27 @@
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
+
 public class Desafio {
-    public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
-        System.out.println("Informe o valor bruto do salário: ");
-        float valorSalario = entrada.nextFloat();
-        System.out.println("Informe o valor dos beneficios: ");
-        float valorBeneficios = entrada.nextFloat();
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    ArrayList < String > ativos = new ArrayList < > ();
 
-        float valorImposto = 0;
-        if(valorSalario >= 0 && valorSalario <= 1100){
-            //Atribui aliquota de 5%
-            valorImposto = 0.05F * valorSalario;
-        }else if(valorSalario >= 1100.01 && valorSalario <= 2500){
-            //Atribui aliquota de 10%
-            valorImposto = 0.10F * valorSalario;
-        }else {
-            // Atribui aliquota de 15% referente a salários +2500
-            valorImposto = 0.15F * valorSalario;
-        }
-            //Calcula e imprime a Saída (com 2 casas decimais);
-        float saida = valorSalario - valorImposto + valorBeneficios;
-        System.out.println(String.format("%.2f", saida));
+    //Entrada dos tipos de ativos
+    int quantidadeAtivos = scanner.nextInt();
 
-        entrada.close();
-    } 
+    // Entrada dos códigos dos ativos
+    for (int i = 0; i < quantidadeAtivos; i++) {
+      String codigoAtivo = scanner.nextLine();
+      ativos.add(codigoAtivo);
+    }
+
+    //TODO: Ordenar os ativos em ordem alfabética.
+    Collections.sort(ativos);
+
+    //TODO: Imprimir a lista de ativos ordenada, conforme a tabela de exemplos.
+     for (String ativo : ativos) {
+      System.out.println(ativo);
+  }
+}
 }
