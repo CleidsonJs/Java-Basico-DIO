@@ -14,5 +14,7 @@ public class EquilibrandoSaldo {
     //TODO: Imprimir o a saída de conforme a tabela de exemplos (uma casa decimal).
       double saida = saldoAtualizado;
       System.out.println("Saldo atualizado na conta: " + String.format("%.1f", saida));
+
+      scanner.close();
     }
 }
