@@ -14,5 +14,6 @@ public class App {
         } else {
              System.out.println("Valor invalido! Digite um valor maior que zero.");
         }
-    }
+    scanner.close();
+}
 }
