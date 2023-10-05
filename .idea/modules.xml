@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstadoBrasileiro/EstadoBrasileiro.iml" filepath="$PROJECT_DIR$/EstadoBrasileiro/EstadoBrasileiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basico-DIO.iml" filepath="$PROJECT_DIR$/.idea/Java-Basico-DIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lanchonete/Lanchonete.iml" filepath="$PROJECT_DIR$/Lanchonete/Lanchonete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Teste git/Teste git.iml" filepath="$PROJECT_DIR$/Teste git/Teste git.iml" />
       <module fileurl="file://$PROJECT_DIR$/banco-app/banco-app.iml" filepath="$PROJECT_DIR$/banco-app/banco-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
