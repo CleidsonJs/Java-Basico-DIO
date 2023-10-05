@@ -1,7 +1,6 @@
 package lanchonete;
 
 import area.cliente.Cliente;
-import atendimento.cozinha.Almoxarife;
 import atendimento.Atendente;
 import atendimento.cozinha.Cozinheiro;
 
@@ -10,7 +9,7 @@ public class Estabelecimento {
         Cozinheiro cozinheiro = new Cozinheiro();
 
         //ações que estabelecimento precisa ter ciência
-        cozinheiro.adicionarSucoNoBalcao();;
+        cozinheiro.adicionarSucoNoBalcao();
         cozinheiro.adicionarLancheNoBalcao();
         cozinheiro.adicionarComboNoBalcao();
 
