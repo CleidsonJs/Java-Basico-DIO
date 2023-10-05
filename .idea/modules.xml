@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basico-DIO.iml" filepath="$PROJECT_DIR$/.idea/Java-Basico-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lanchonete/Lanchonete.iml" filepath="$PROJECT_DIR$/Lanchonete/Lanchonete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste git/Teste git.iml" filepath="$PROJECT_DIR$/Teste git/Teste git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banco-app/banco-app.iml" filepath="$PROJECT_DIR$/banco-app/banco-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-BancoOrganizadorAtivos/desafio-BancoOrganizadorAtivos.iml" filepath="$PROJECT_DIR$/desafio-BancoOrganizadorAtivos/desafio-BancoOrganizadorAtivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-CondicionalmenteRico/desafio-CondicionalmenteRico.iml" filepath="$PROJECT_DIR$/desafio-CondicionalmenteRico/desafio-CondicionalmenteRico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-EquilibrandoSaldo/desafio-EquilibrandoSaldo.iml" filepath="$PROJECT_DIR$/desafio-EquilibrandoSaldo/desafio-EquilibrandoSaldo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-JurosCompostos/desafio-JurosCompostos.iml" filepath="$PROJECT_DIR$/desafio-JurosCompostos/desafio-JurosCompostos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-codigo-GrandeDeposito/desafio-codigo-GrandeDeposito.iml" filepath="$PROJECT_DIR$/desafio-codigo-GrandeDeposito/desafio-codigo-GrandeDeposito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-salario-funcionario/desafio-salario-funcionario.iml" filepath="$PROJECT_DIR$/desafio-salario-funcionario/desafio-salario-funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroProjeto/primeiroProjeto.iml" filepath="$PROJECT_DIR$/primeiroProjeto/primeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
